@@ -50,10 +50,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://gitlab.com/https://gitlab.com/jastik32" target="_blank">
+<a href="https://gitlab.com/jastik32" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/jastik32" target="_blank">
+<a href="https://github.com/jastik32" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23615244/sergey" target="_blank">
