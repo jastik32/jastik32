@@ -11,19 +11,19 @@
 ### 
   
 ## <div align="center">About Me
-My name is Sergey. I`m from Bryansk, Russia.
-
-I am 16 years old.
-
-
-I'm Interested In
-
-Java
-🖤
-
-Python🖤
-
-PostgreSQL🖤</div>  
+      My name is Sergey. I`m from Bryansk, Russia.
+      
+      I am 16 years old.
+      
+      
+      I'm Interested In
+      
+      Java
+      🖤
+      
+      Python🖤
+      
+      PostgreSQL🖤</div>  
   
 
 <br/>  
